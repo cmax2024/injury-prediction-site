@@ -1,0 +1,49 @@
+---
+title: "Welcome"
+format: html
+---
+
+
+# Choppell Maxwell
+
+::::: {style="display: flex; align-items: center; justify-content: space-between;"}
+::: {style="flex: 1;"}
+Welcome to my Data Science Portfolio. I'm an epidemiologist, data scientist, and public health leader with a passion for translating complex data into actionable insights that drive meaningful change.
+:::
+
+::: {style="margin-left: 20px;"}
+![](profile.jpg){width="150px" style="border-radius: 10px;"}
+:::
+:::::
+
+## Academic Background
+
+I am currently completing my Master of Science in Data Science and Analytics at Eastern University, with expected graduation in July 2025.\
+My academic journey also includes:
+
+-   **Doctor of Public Health**, Capella University (2016)\
+-   **Master of Public Health**, Purdue University Global (2012)\
+-   **Bachelor of Science**, Elizabeth City State University (2002)
+
+## Career Aspirations
+
+I aspire to continue advancing in the field of data science for public health, particularly in roles that blend epidemiology, predictive modeling, and health systems innovation. My long-term goal is to lead efforts that improve public health infrastructure using AI and machine learning.
+
+## Professional Interests
+
+-   Injury prevention and surveillance\
+-   Health data analytics\
+-   Machine learning and predictive modeling\
+-   Natural language processing\
+-   Health equity and access to care
+
+## A Bit About Me
+
+When I’m not deep in a dataset or building predictive models, I enjoy mentoring emerging public health professionals and volunteering with community-based organizations like *Season to Soar*. I also love baking, traveling, and spending time with my family in Suffolk, Virginia.
+
+This website highlights a few of my academic and professional projects, including an interactive Injury Risk Prediction Shiny Application built for my graduate capstone.
+
+
+<div class="toc-image-wrapper">
+  <img src="welcome.png" alt="Welcome Image" class="toc-image">
+</div>

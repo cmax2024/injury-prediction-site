@@ -1,0 +1,108 @@
+---
+title: "Resume"
+format: html
+---
+
+# Contact Information
+
+**Choppell Maxwell**\
+luvscandy27\@gmail.com\
+252-267-0787\
+Suffolk, VA 23434
+
+------------------------------------------------------------------------
+
+# Skills
+
+-   Machine Learning\
+-   Predictive Modeling\
+-   SAS\
+-   SQL\
+-   R\
+-   Python\
+-   Tableau\
+-   Power BI\
+-   Excel\
+-   DataBricks
+-   ICD-9 / ICD-10 Coding
+
+------------------------------------------------------------------------
+
+# Certifications
+
+-   **SAS Certified Specialist**: Base Programming Using SAS 9.4 – SAS Institute (2020)\
+-   **COVID-19 Contact Tracing** – Johns Hopkins University (2020)\
+-   **Graduate Certificate in Analytics Using SAS** – Capella University (2019)
+
+------------------------------------------------------------------------
+
+# Education
+
+**Eastern University**\
+*Master of Science in Data Science and Analytics* – *Expected July 2025*
+
+**Capella University**\
+*Doctor of Public Health* – 2016
+
+**Purdue University Global**\
+*Master of Public Health* – 2012
+
+**Elizabeth City State University**\
+*Bachelor of Science* – 2002
+
+------------------------------------------------------------------------
+
+# Work History
+
+### **Centers for Disease Control and Prevention** – *Sr. Epidemiologist*
+
+Remote \| *Feb 2023 – Present*\
+- Managed programmers and developers building a national Data Query System\
+- Designed algorithms to transform large datasets into analytical models\
+- Coded in SAS, R, and Python to clean and analyze public health data\
+- Automated pipelines to improve processing time and efficiency\
+- Led cross-functional innovation in epidemiological decision-making
+
+------------------------------------------------------------------------
+
+### **Alexion/AstraZeneca Pharmaceuticals** – *Senior Epidemiologist Consultant*
+
+Remote \| *Feb 2021 – Feb 2023*\
+- Led analytics for the PNH Registry and coordinated with biostats teams\
+- Reviewed tables/figures and guided statistical analysis with SAS\
+- Supported functions across Medical Affairs, Regulatory, and Clinical
+
+------------------------------------------------------------------------
+
+### **Navy & Marine Corps Public Health Center (GDIT)** – *Senior Epidemiologist*
+
+Portsmouth, VA \| *Apr 2019 – Feb 2021*\
+- Oversaw military claims data from MDR for 9.2M beneficiaries\
+- Conducted broad-spectrum analyses of military/non-military facilities
+
+------------------------------------------------------------------------
+
+### **CDC (CTE Contractor)** – *Epidemiologist*
+
+Atlanta, GA \| *Oct 2016 – Apr 2019*\
+- Led analysis of immunization and exemption data\
+- Built models to track vaccination coverage and inform policy
+
+------------------------------------------------------------------------
+
+### **Ameritox** – *Certifying Scientist*
+
+Greensboro, NC \| *Jun 2010 – Nov 2016*\
+- Conducted drug testing and analysis on opioid misuse\
+- Advised physicians on chronic pain medication compliance
+
+------------------------------------------------------------------------
+
+# Publications
+
+-   *The Integration of Mental Health Services into Routine Check-Ups for Women of Childbearing Potential* (2016)\
+-   *Vaccination Coverage and Exemption Rates Among Kindergartners in the U.S.* (CDC, 2018)
+
+<div class="toc-image-wrapper">
+  <img src="resume.png" class="toc-image">
+</div>

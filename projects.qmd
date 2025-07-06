@@ -1,0 +1,48 @@
+---
+title: "Featured Projects"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+    toc-location: right
+---
+
+## Season to Soar Website
+
+[Visit Website ›](https://www.seasontosoar.com/)
+
+I serve as the Project Coordinator at Season to Soar, a nonprofit organization supporting underserved youth. I developed and manage the organization's website and technical infrastructure.\
+
+Our most recent project was the Global Youth Leadership Panel, which brought together students and global changemakers for dialogue and development.\
+[View event recap ›](https://www.seasontosoar.com/2025/06/03/global-youth-leadership-panel-at-bond-elementary/)
+
+------------------------------------------------------------------------
+
+## Educational Justice Institute (EJI)
+
+[Visit Website ›](https://edjusticeinstitute.com/home/)
+
+As Director of Technology Initiatives, I built and maintain the EJI website, which supports K–12 students, educators, and researchers. This platform provides access to educational equity tools, journals, and programs.
+
+------------------------------------------------------------------------
+
+## CDC NCHS Data Query System
+
+[Launch Tool ›](https://nchsdata.cdc.gov/DQS)
+
+At the Centers for Disease Control and Prevention, I support a team of data analysts and statisticians in developing scalable public data tools. I contributed to the creation of the NCHS Data Query System, which allows users to interactively explore health statistics and custom reports.
+
+------------------------------------------------------------------------
+
+## CDC Publication – Vaccination Coverage Study
+
+[Read Publication ›](https://pmc.ncbi.nlm.nih.gov/articles/PMC6181259/)
+
+As a CDC epidemiologist, I co-authored a study on vaccination coverage and exemption rates among kindergarteners in the U.S. This work supported national immunization strategies and informed state-level policy.
+
+------------------------------------------------------------------------
+
+
+<div class="toc-image-wrapper">
+  <img src="projects.png" alt="Welcome Image" class="toc-image">
+</div>
