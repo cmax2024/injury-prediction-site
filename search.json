@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Contact Information\nChoppell Maxwell\nluvscandy27@gmail.com\n252-267-0787\nSuffolk, VA 23434\n\n\n\nSkills\n\nMachine Learning\n\nPredictive Modeling\n\nSAS\n\nSQL\n\nR\n\nPython\n\nTableau\n\nPower BI\n\nExcel\n\nDataBricks\nICD-9 / ICD-10 Coding\n\n\n\n\nCertifications\n\nSAS Certified Specialist: Base Programming Using SAS 9.4 – SAS Institute (2020)\n\nCOVID-19 Contact Tracing – Johns Hopkins University (2020)\n\nGraduate Certificate in Analytics Using SAS – Capella University (2019)\n\n\n\n\nEducation\nEastern University\nMaster of Science in Data Science and Analytics – Expected July 2025\nCapella University\nDoctor of Public Health – 2016\nPurdue University Global\nMaster of Public Health – 2012\nElizabeth City State University\nBachelor of Science – 2002\n\n\n\nWork History\n\nCenters for Disease Control and Prevention – Sr. Epidemiologist\nRemote | Feb 2023 – Present\n- Managed programmers and developers building a national Data Query System\n- Designed algorithms to transform large datasets into analytical models\n- Coded in SAS, R, and Python to clean and analyze public health data\n- Automated pipelines to improve processing time and efficiency\n- Led cross-functional innovation in epidemiological decision-making\n\n\n\nAlexion/AstraZeneca Pharmaceuticals – Senior Epidemiologist Consultant\nRemote | Feb 2021 – Feb 2023\n- Led analytics for the PNH Registry and coordinated with biostats teams\n- Reviewed tables/figures and guided statistical analysis with SAS\n- Supported functions across Medical Affairs, Regulatory, and Clinical\n\n\n\nNavy & Marine Corps Public Health Center (GDIT) – Senior Epidemiologist\nPortsmouth, VA | Apr 2019 – Feb 2021\n- Oversaw military claims data from MDR for 9.2M beneficiaries\n- Conducted broad-spectrum analyses of military/non-military facilities\n\n\n\nCDC (CTE Contractor) – Epidemiologist\nAtlanta, GA | Oct 2016 – Apr 2019\n- Led analysis of immunization and exemption data\n- Built models to track vaccination coverage and inform policy\n\n\n\nAmeritox – Certifying Scientist\nGreensboro, NC | Jun 2010 – Nov 2016\n- Conducted drug testing and analysis on opioid misuse\n- Advised physicians on chronic pain medication compliance\n\n\n\n\nPublications\n\nThe Integration of Mental Health Services into Routine Check-Ups for Women of Childbearing Potential (2016)\n\nVaccination Coverage and Exemption Rates Among Kindergartners in the U.S. (CDC, 2018)"
+  },
+  {
+    "objectID": "injury.html",
+    "href": "injury.html",
+    "title": "Injury Risk Prediction Model",
+    "section": "",
+    "text": "This page presents my DTSC 691 final project, a predictive model that estimates the risk of injury among U.S. Army trainees based on demographic and physical fitness characteristics."
+  },
+  {
+    "objectID": "injury.html#project-motivation",
+    "href": "injury.html#project-motivation",
+    "title": "Injury Risk Prediction Model",
+    "section": "1 Project Motivation",
+    "text": "1 Project Motivation\nInjury prevention is a key priority in military readiness. Using simulated data that reflects real-world patterns in age, gender, and physical performance (measured by the ACFT), this model aims to identify trainees who may be at elevated injury risk."
+  },
+  {
+    "objectID": "injury.html#modeling-approach",
+    "href": "injury.html#modeling-approach",
+    "title": "Injury Risk Prediction Model",
+    "section": "2 Modeling Approach",
+    "text": "2 Modeling Approach\n\nTarget Variable: Binary indicator of whether a trainee was injured.\nPredictors:\n\nAge (standardized)\nGender\nACFT performance (Pass/Fail)\n\nModel Type: Binary logistic regression model\nPerformance Metric: Area Under the ROC Curve (AUC)"
+  },
+  {
+    "objectID": "injury.html#results",
+    "href": "injury.html#results",
+    "title": "Injury Risk Prediction Model",
+    "section": "3 Results",
+    "text": "3 Results\n\nAUC: 0.641\nOptimal Classification Threshold: ~0.135\nTop predictors: Age, gender, and failing ACFT\n\n\n3.1 Predicted Injury Probability Distribution\n\n\n\nPredicted Injury Probability Distribution\n\n\n\n\n3.2 Example Prediction Output\nYou can interact with the live model below or open it in a new tab:\nOpen Injury Prediction Model"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my Data Science Portfolio. I’m an epidemiologist, data scientist, and public health leader with a passion for translating complex data into actionable insights that drive meaningful change.\n\n\n\n\n\n\n\nI am currently completing my Master of Science in Data Science and Analytics at Eastern University, with expected graduation in July 2025.\nMy academic journey also includes:\n\nDoctor of Public Health, Capella University (2016)\n\nMaster of Public Health, Purdue University Global (2012)\n\nBachelor of Science, Elizabeth City State University (2002)\n\n\n\n\nI aspire to continue advancing in the field of data science for public health, particularly in roles that blend epidemiology, predictive modeling, and health systems innovation. My long-term goal is to lead efforts that improve public health infrastructure using AI and machine learning.\n\n\n\n\nInjury prevention and surveillance\n\nHealth data analytics\n\nMachine learning and predictive modeling\n\nNatural language processing\n\nHealth equity and access to care\n\n\n\n\nWhen I’m not deep in a dataset or building predictive models, I enjoy mentoring emerging public health professionals and volunteering with community-based organizations like Season to Soar. I also love baking, traveling, and spending time with my family in Suffolk, Virginia.\nThis website highlights a few of my academic and professional projects, including an interactive Injury Risk Prediction Shiny Application built for my graduate capstone."
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Welcome",
+    "section": "",
+    "text": "I am currently completing my Master of Science in Data Science and Analytics at Eastern University, with expected graduation in July 2025.\nMy academic journey also includes:\n\nDoctor of Public Health, Capella University (2016)\n\nMaster of Public Health, Purdue University Global (2012)\n\nBachelor of Science, Elizabeth City State University (2002)"
+  },
+  {
+    "objectID": "index.html#career-aspirations",
+    "href": "index.html#career-aspirations",
+    "title": "Welcome",
+    "section": "",
+    "text": "I aspire to continue advancing in the field of data science for public health, particularly in roles that blend epidemiology, predictive modeling, and health systems innovation. My long-term goal is to lead efforts that improve public health infrastructure using AI and machine learning."
+  },
+  {
+    "objectID": "index.html#professional-interests",
+    "href": "index.html#professional-interests",
+    "title": "Welcome",
+    "section": "",
+    "text": "Injury prevention and surveillance\n\nHealth data analytics\n\nMachine learning and predictive modeling\n\nNatural language processing\n\nHealth equity and access to care"
+  },
+  {
+    "objectID": "index.html#a-bit-about-me",
+    "href": "index.html#a-bit-about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "When I’m not deep in a dataset or building predictive models, I enjoy mentoring emerging public health professionals and volunteering with community-based organizations like Season to Soar. I also love baking, traveling, and spending time with my family in Suffolk, Virginia.\nThis website highlights a few of my academic and professional projects, including an interactive Injury Risk Prediction Shiny Application built for my graduate capstone."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Featured Projects",
+    "section": "",
+    "text": "Visit Website ›\nI serve as the Project Coordinator at Season to Soar, a nonprofit organization supporting underserved youth. I developed and manage the organization’s website and technical infrastructure.\n\nOur most recent project was the Global Youth Leadership Panel, which brought together students and global changemakers for dialogue and development.\nView event recap ›"
+  },
+  {
+    "objectID": "projects.html#season-to-soar-website",
+    "href": "projects.html#season-to-soar-website",
+    "title": "Featured Projects",
+    "section": "",
+    "text": "Visit Website ›\nI serve as the Project Coordinator at Season to Soar, a nonprofit organization supporting underserved youth. I developed and manage the organization’s website and technical infrastructure.\n\nOur most recent project was the Global Youth Leadership Panel, which brought together students and global changemakers for dialogue and development.\nView event recap ›"
+  },
+  {
+    "objectID": "projects.html#educational-justice-institute-eji",
+    "href": "projects.html#educational-justice-institute-eji",
+    "title": "Featured Projects",
+    "section": "Educational Justice Institute (EJI)",
+    "text": "Educational Justice Institute (EJI)\nVisit Website ›\nAs Director of Technology Initiatives, I built and maintain the EJI website, which supports K–12 students, educators, and researchers. This platform provides access to educational equity tools, journals, and programs."
+  },
+  {
+    "objectID": "projects.html#cdc-nchs-data-query-system",
+    "href": "projects.html#cdc-nchs-data-query-system",
+    "title": "Featured Projects",
+    "section": "CDC NCHS Data Query System",
+    "text": "CDC NCHS Data Query System\nLaunch Tool ›\nAt the Centers for Disease Control and Prevention, I support a team of data analysts and statisticians in developing scalable public data tools. I contributed to the creation of the NCHS Data Query System, which allows users to interactively explore health statistics and custom reports."
+  },
+  {
+    "objectID": "projects.html#cdc-publication-vaccination-coverage-study",
+    "href": "projects.html#cdc-publication-vaccination-coverage-study",
+    "title": "Featured Projects",
+    "section": "CDC Publication – Vaccination Coverage Study",
+    "text": "CDC Publication – Vaccination Coverage Study\nRead Publication ›\nAs a CDC epidemiologist, I co-authored a study on vaccination coverage and exemption rates among kindergarteners in the U.S. This work supported national immunization strategies and informed state-level policy."
+  }
+]

@@ -1,0 +1,42 @@
+
+
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 400px;               /* Width -left-side image */
+  height: 100vh;              /* Full viewport height */
+  background-image: url("profile-vertical.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;                /* Push behind all content */
+  display: block;
+}
+
+.toc-image-wrapper {
+  position: fixed;
+  right: 40px;               /* distance from the right edge */
+  top: 65%;                  /* vertical position */
+  transform: translateY(-50%);
+  z-index: 5;
+  text-align: center;
+}
+
+.toc-image {
+  width: 500px;              /* make it wider */
+  height: auto;              /* maintain aspect ratio */
+  border-radius: 12px;       /* slight rounded corners */
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3); /* deeper shadow */
+}
+
+
+body {
+  background-color: white;  /* Keep your light purplish-blue base */
+  background-image: 
+    url('https://www.transparenttextures.com/patterns/white-wall-3.png');  /* or another texture */
+  background-repeat: repeat;
+  background-attachment: fixed;
+}

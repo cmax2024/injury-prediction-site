@@ -1,0 +1,1 @@
+Sitemap: https://cmax2024.github.io/injury-prediction-site/sitemap.xml
